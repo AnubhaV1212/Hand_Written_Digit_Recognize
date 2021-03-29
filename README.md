@@ -1,4 +1,4 @@
-# Hand_Written_Digit_Recongnize
+# Hand_Written_Digit_Recognize
 
 ## Overview
 This is a end to end digit recongnizer desktop application project. The trained model is used to predict the draw image of digit 0-9. You need to draw the digit and then click on Click Button, it will show the digit with prediction percentage.
