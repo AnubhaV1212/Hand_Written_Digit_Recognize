@@ -12,10 +12,10 @@ First, after getting data I have prepare the model using RandomForestRegressor a
 Second, after developing model. I have deployed my application on desktop using Tkinter
 
 HomePage of Application
-![HomePage](https://user-images.githubusercontent.com/68047740/112879424-be07eb80-90e6-11eb-95f7-4e4240fa7059.png)
+![image](https://user-images.githubusercontent.com/68047740/113161410-fc72e700-925b-11eb-9230-05b411216ff8.png)
 
 Sample Output
-![Sample_Output](https://user-images.githubusercontent.com/68047740/112879390-b2b4c000-90e6-11eb-9f0e-d5293b45cd7c.png)
+![image](https://user-images.githubusercontent.com/68047740/113161461-0a286c80-925c-11eb-8d4a-16352bd8bb17.png)
 
 
 ## Installation
